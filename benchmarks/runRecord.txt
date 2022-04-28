@@ -1,0 +1,49 @@
+run206
+	benchmarks with 50 stations
+	q - p = 1 (referred to as bikedelta in info.json)
+	results reported in Table 1
+
+run207
+	benchmarks with 50 stations
+	q - p = 2
+	results reported in Table 1
+
+run208
+	benchmarks with 50 stations
+	q - p = 3
+	results reported in Table 1
+
+run209
+	benchmarks with 50 stations
+	q - p = 4
+	results reported in Table 1
+
+run210
+	benchmarks with 50 stations
+	q - p = 5
+	results reported in Table 1
+
+run211
+	benchmarks with 60 stations
+	q - p = 1
+	results reported in Table 2
+
+run212
+	benchmarks with 60 stations
+	q - p = 2
+	results reported in Table 2
+
+run213
+	benchmarks with 60 stations
+	q - p = 3
+	results reported in Table 2
+
+run214
+	benchmarks with 60 stations
+	q - p = 4
+	results reported in Table 2
+
+run215
+	benchmarks with 60 stations
+	q - p = 5
+	results reported in Table 2

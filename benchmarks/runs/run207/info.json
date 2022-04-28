@@ -1,0 +1,21 @@
+{
+"problemSizes" : [50],
+"params" :
+        {
+    "locations"     : [1],
+    "q_0"           : [0],
+    "d_m"           : 0,
+    "d_p"           : 0,
+    "detour_factor" : 1,
+    "threads"       : 8,
+    "units"         : "meters",
+    "bikeDelta"     : 2,
+    "timeLimit"     : 7200,
+    "clustering"    : false,
+    "parallelRouting": false,
+    "splitDemand"   : false,
+    "openEnded"     : false,
+    "D_matrix_rounding": true,
+    "hull_var_y"    : false
+        }
+}

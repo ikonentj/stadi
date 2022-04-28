@@ -1,0 +1,63 @@
+case50
+	region A / 6-9 am, SLR = 0.900
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Tables 4 and 5
+
+case51
+	region B / 6-9 am, 1 vehicle, SLR = 0.900
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Tables 4, 5, and 6
+
+case52
+	region B / 3-6 pm, 1 vehicle, SLR = 0.900
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Tables 4 and 5
+
+case53
+	region C / 6-9 am, 1 vehicle, SLR = 0.900
+	run1: picking strategy = subset	(results only with the model hull_pm_general)
+	results reported in Table 5
+
+case54
+	region C / 3-6 pm, 1 vehicle, SLR = 0.900
+	run1: picking strategy = subset (results only with the model hull_pm_general)
+	results reported in Table 5
+
+case55
+	region C / 6-9 am, 3 vehicles, SLR = 0.900
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Tables 7 and 8
+
+case56
+	region C / 3-6 pm, 3 vehicles, SLR = 0.900
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Tables 7 and 8
+
+case57
+	region B / 6-9 am, 1 vehicle, SLR = 0.850
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Table 6
+
+case58
+	region B / 6-9 am, 1 vehicle, SLR = 0.875
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Table 6
+
+case59
+	region B / 6-9 am, 1 vehicle, SLR = 0.925
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Table 6
+
+case60
+	region B / 6-9 am, 1 vehicle, SLR = 0.950
+	run1: picking strategy = subset
+	run2: picking strategy = all
+	results reported in Table 6

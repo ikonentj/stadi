@@ -1,0 +1,2 @@
+data/helsinki/snapshots/data_2021_pre.csv filter=lfs diff=lfs merge=lfs -text
+data/helsinki/snapshots/data_2021.csv.gz filter=lfs diff=lfs merge=lfs -text

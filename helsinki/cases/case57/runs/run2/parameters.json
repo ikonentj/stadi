@@ -1,0 +1,27 @@
+{
+    "time_start": "2021-06-01",
+    "time_end"  : "2021-07-12",
+    "params": {
+                "Q"                 : 25,
+                "q_0"               : [0],
+                "locations"         : [null],              
+                "d_m"               : 500,
+                "d_p"               : 500,
+                "detour_factor"     : 1.4,
+                "threads"           : 8,
+                "units"             : "coordinates",
+                "timeLimit"         : 7200,
+                "clustering"        : false,
+                "clustTimeFrac"     : 0.2,
+                "parallelRouting"   : false,
+                "splitDemand"       : true,
+                "openEnded"         : true,
+                "selfSufficients"   : true,
+                "D_matrix_rounding" : false,
+                "sch17_eq7"         : "modified",
+                "sch17_eq10_11"     : "modified",
+                "sch17_limitVisits" : false,
+                "sch17_ts_bound"    : 0,
+                "hull_var_y"        : false
+            }
+}

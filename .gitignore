@@ -1,0 +1,8 @@
+# unwanted files and folders
+benchmarks/*.sh
+helsinki/*.sh
+
+# python files
+*.pyc
+*.egg-info/*
+*-checkpoint.ipynb
