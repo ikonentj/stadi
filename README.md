@@ -3,7 +3,7 @@ stadi
 
 The module contains the code to formulate and solve the *static bike sharing rebalancing problem with demand intervals* (SBRP-DI). We have named the module as 'stadi' for easier pronunciation. The module is used to generate the results presented in the manuscript:
 
-- Ikonen, T. J., Heljanko, K., Harjunkoski, I. (2022). A generalized disjunctive programming model for the static bike sharing rebalancing problem with demand intervals (submitted).
+- Ikonen, T. J., Heljanko, K., Harjunkoski, I. (2023). A generalized disjunctive programming model for the static bike sharing rebalancing problem with demand intervals (submitted).
 
 The module includes an implementation of the queueing system based prediction method, the clustering model, and the routing model by Schuijbroek et al. (2017). See the reference for further details.
 
